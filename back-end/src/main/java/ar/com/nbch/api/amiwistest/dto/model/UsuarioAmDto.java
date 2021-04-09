@@ -2,7 +2,7 @@ package ar.com.nbch.api.amiwistest.dto.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-public class UsuarioAmDTo {
+public class UsuarioAmDto {
     @JsonProperty("nombre")
     private String nombre;
 
